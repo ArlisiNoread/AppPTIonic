@@ -1,0 +1,7 @@
+{
+  "name": "AppPT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
