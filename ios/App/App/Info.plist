@@ -82,8 +82,8 @@
     <key>IonAppId</key>
     <string>0d0648a5</string>
     <key>IonChannelName</key>
-    <string>Production</string>
+    <string>Master</string>
     <key>IonUpdateMethod</key>
-    <string>background</string>
+    <string>auto</string>
   </dict>
 </plist>
